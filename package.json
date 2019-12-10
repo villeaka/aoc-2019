@@ -1,0 +1,23 @@
+{
+  "name": "aoc-2019",
+  "version": "1.0.0",
+  "description": "Puzzle solutions for Advent of Code 2019.",
+  "main": "index.js",
+  "dependencies": {
+    "ramda": "^0.26.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/villeaka/aoc-2019.git"
+  },
+  "author": "villeaka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/villeaka/aoc-2019/issues"
+  },
+  "homepage": "https://github.com/villeaka/aoc-2019"
+}
